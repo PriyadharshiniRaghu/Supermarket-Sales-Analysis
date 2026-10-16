@@ -1,0 +1,8 @@
+SUPERMARKET SALES ANALYSIS
+==========================
+Transactions analysed: 1000
+Total sales: 322966.75
+Average transaction value: 322.97
+Highest sales product line: Food and beverages
+Highest sales branch: C
+Highest gross income product line: Food and beverages
